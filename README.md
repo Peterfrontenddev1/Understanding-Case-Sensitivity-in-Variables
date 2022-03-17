@@ -25,3 +25,22 @@ Modify the existing declarations and assignments so their names use camelCase.
 
 Do not create any new variables.
 
+// Variable declarations
+var StUdLyCapVaR;
+var properCamelCase;
+var TitleCaseOver;
+
+// Variable assignments
+STUDLYCAPVAR = 10;
+PRoperCAmelCAse = "A String";
+tITLEcASEoVER = 9000;
+
+
+
+                                                    ANSWER
+       
+       
+       
+       
+                                                    
+           
