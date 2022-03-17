@@ -8,3 +8,4 @@ MYVAR is not the same as MyVar nor myvar. It is possible to have multiple distin
 
 
 Best Practice
+
