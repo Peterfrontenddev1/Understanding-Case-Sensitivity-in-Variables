@@ -21,3 +21,7 @@ Write variable names in JavaScript in camelCase. In camelCase, multi-word variab
                                                         QUESTION
     
     
+Modify the existing declarations and assignments so their names use camelCase.
+
+Do not create any new variables.
+
